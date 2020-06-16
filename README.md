@@ -23,19 +23,15 @@ Leerdoelen / Competenties
 At the end of this minor you have developed yourself as a material storyteller and critical maker. You bring valuable hands-on knowledge and skills to any professional environment: you can work with conceptual frameworks to initiate question-driven design processes for exploring sustainable material development with an awareness of the politics, cultures and histories of made objects. This allows you to develop an ethical contemporary maker practice and share your expertise in a way that allows others to build on and learn from your work.
 
 ### Digital Craftsmanship 
-
 The ability to safely and creatively use lab equipment and tools to design and fabricate 2D and 3D objects and textures, make functional molds, create and program sensors and actuators, following recipes to recreate and modify bio-polymers and pigments. 
 
 ### Material Research & Documentation
-
 The ability to analyse the properties of materials and their relationship to tools and production processes used, in order to identify areas for further question-led material exploration. Knowing how, when and what to reference and document in order for others to reproduce, replicate and continue building on your work.
 
 ### Argumentation & Storytelling
-
 The ability to develop stimulating scenarios and use effective (material) storytelling techniques to build an argument for the future relevance, urgency and creative potential of their materials research, presented as part of an exhibition.
 
 ## Assessment information
-
 All course is structured in three domains, each existing of a foundational part (I) and an applied part (II). All parts are graded with various assignments (I) and portfolio assessments (II). 
 
   * *Digital Craftsmanship I & II - 10 EC*
@@ -64,11 +60,9 @@ This minor welcomes students with an open, curious and analytical attitude, comi
 ​**Host faculty:** Digital Media & Creative Industries
 ​
 ## Teaching staff & coordination
-​​
 ​​[Loes Bogers](mailto:l.bogers@hva.nl) |  [Micky van Zeijl](mailto: m.van.zeijl@hva.nl) |  Sam Edens | Yuri Westplat | Marjolijn Ruyg |  Laura Mudde | and guests
 
 ## Selection from course syllabus
-
 Bogers, Loes & Letzia Chiappini (eds) The Critical Makers Reader: (Un)Learning Technology. Amsterdam: Insittute of Network Cultures, 2019.
 
 Franklin, Kate. Radical Matter: Rethinking Materials for a Sustainable Future. London: Thames & Hudson, 2018.
