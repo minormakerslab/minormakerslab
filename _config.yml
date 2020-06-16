@@ -1,1 +1,6 @@
-theme: jekyll-theme-tactile
+# Build settings
+markdown: kramdown
+remote_theme:  orderedlist/minimal 
+
+# THIS IS OLD
+#theme: jekyll-theme-tactile
