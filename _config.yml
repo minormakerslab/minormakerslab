@@ -1,4 +1,4 @@
-remote_theme:  orderedlist/minimal 
+theme:  jekyll-theme-minimal 
 
 # THIS IS OLD
 #theme: jekyll-theme-tactile
