@@ -1,4 +1,6 @@
-On Thursday 25 June at 4PM, students of the semester course (NL: minor) Makers Lab: Making as Research will present the self-directed projects they worked on for the last 10 weeks. We invite you to join us for a guided tour! 
+# EXPO 2020
+
+On **Thursday 25 June at 4PM**, students of the semester course (NL: minor) Makers Lab: Making as Research will present the self-directed projects they worked on for the last 10 weeks. We invite you to join us for a guided tour! 
 
 ## Meeting link: https://bit.ly/makerexpo2020
 
