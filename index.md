@@ -9,3 +9,11 @@ Meeting ID: 424 016 3143  |   Password: 092963 |  Issues? Whatsapp: 0621158245 o
 ![](./images/expoflyer2020.jpg)
 
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
