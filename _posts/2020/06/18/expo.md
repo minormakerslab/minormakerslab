@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "About Minor Makers Lab"
+---
+
+# Expo Minor Makers Lab - Join our guided tour on Thursday 25 June
+On Thursday 25 June, students of the Minor Makers Lab will present their projects on RIVM regulations, fashion, dating, packaging, exercise, biomaterials and DIY maker cultures. The students engaged in self-directed projects from home, making do with the limited tools and materials at hand. From their kitchens, gardens and bedrooms, our students engaged with challenges around the lived realities of the COVID-19 crisis, often combined with a strong sense of homebrewed material activism. 
+
+### Join our guided tour of the projects on Thursday 25 June 4.00 PM via [zoom](https://bit.ly/makerexpo2020). 
+
+## Minor Makers Lab: self-directed projects from home 
+We arrive at the end of a semester that asked us all to reflectively engage with the conditions that make making as we know it possible. Repeatedly hitting our heads against our often invisible reliance on facilities and supply chains has been a struggle and a blessing, but seeing their interdependencies more clearly certainly encouraged us to take a radical turn in terms of the materials we choose to work with as makers. We experimented with bio-based materials and learned to embrace the fact that we would not be exerting the kind of control we are used to having over materials we know and work with when we use industrial machines. Limitations turned into openings and vice versa as we were practically confronted with the ways tools and staple materials inform what we can imagine.  
+
+# Projects
+## ONE SIZE HURTS ALL 
+One size-fits-all facemasks revisited: from universal to personal fit.
+
+Student: Kaz Bison (CMD)
+Coach: Yuri Westplat
+Tags: COVID-19, PPE, DIY, personal fit
+
+## BIOPLASTICS ON A RAINBOW SPECTRUM
+Creating a rainbow of color for bioplastics using natural, accessible ingredients.
+
+Student: Desiree van Dam (CMD)
+Coach: Marjolijn Ruyg
+Tags: biofabricating, natural pigments
+
+## DATEKLEED
+A tactile material experience to support changing embodied social habits.
+
+Student: Duncan van Norden (AMFI)
+Coach: Marjolijn Ruyg
+Tags: social distancing, dating, materials
+
+## BIOFILTERS: AN ANALOG PHOTOSHOP
+Back to the basics of "light writing", using DIY analog, bioplastic photofilters.
+
+Student: Daniël van Kesteren (CO/CB)
+Coach: Marjolijn Ruyg
+Tags: photography, biofabricating, filters
+
+## HYPERDISPOSABLES
+Towards hyperdisposable sporks: beyond the promise of biodegradable plastic.
+
+Student: Anoush Mazloumian (CMD)
+Coach: Yuri Westplat
+Tags: biofabricating, material activism
+
+## FOAM FOR MATERIAL ACTIVISTS
+In search of a lightweight, compostable bioplastic to protect fragile goods.
+
+Student: Laura Velgersdijk (PD)
+Coach: Yuri Westplat
+Tags: biofabricating, material activism
+
+## GELANCE CUSHION
+Ephemeral exercise gear to support rehabilitation exercises during lockdown. 
+
+Student: Andrei Motian (CMD)
+Coach: Marjolijn Ruyg
+Tags: exercise, quarantaine, bioplastics
+
+## BIODEGRADABLE PACKAGING BAGS
+Rethinking disposable packaging for the transportation of garments.
+
+Student: Kim Sinke (CMD)
+Coach: Yuri Westplat
+Tags: biofabricating, material activism
+
+## TOP TOUCHING
+Reframing hygiene tactics and accessible maker culture through a DIY lens.
+
+Student: Summer Danoe (CMD)
+Coach: Yuri Westplat
+Tags: COVID-19, personal devices, DIY
+
+## LANDSCAPES FOR WARHAMMER
+Redesigning Warhammer landscapes from a sustainable DIY perspective. 
+
+Student: Dusanka Prvulovic (CMD)
+Coach: Marjolijn Ruyg
+Tags: Warhammer, kitbashing, bioplastics
+
+## BEYOND HUMANITY
+Being yourself does not have to be in a human form. 
+
+Student: Britt de Heer (AMFI)
+Coach: Marjolijn Ruyg
+Tags: body accessories, biofabricating
+
+## DIY FACEGUARDS
+Seeking alternatives for the diminishing material supplies used for personal protection equipment (PPE).
+
+Student: Thijs Uffen (CMD)
+Coach: Yuri Westplat
+Tags: COVID-19, faceguards, 
+
+# Thursday 25 June 4.00 PM  
+Guided tour via [zoom](https://bit.ly/makerexpo2020). 
+
+
+
+
