@@ -3,7 +3,7 @@ layout: home
 title:  Minor Makers Lab: Making as Research
 ---
 
-<img src= "./images/critialmaking3dweek_pixelated.jpg" alt="visual" width="400"/>
+<img src= "./images/critialmaking3dweek_pixelated.jpg" alt="visual" width="300"/>
 
 *Image by Kristin Jakubek*
 

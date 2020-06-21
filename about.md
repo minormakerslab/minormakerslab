@@ -5,7 +5,7 @@ title:  "About"
 
 *Exploring Sustainable High and Low Tech Materials through Critical Crafts*
 
-<img src= "./images/Kick-off-week-visual-1.png" alt="visual" width="400"/>
+<img src= "./images/Kick-off-week-visual-1.png" alt="visual" width="300"/>
 
 *Image by Kristin Jakubek*
 
@@ -14,14 +14,14 @@ This minor challenges you to think critically about the way you make and design.
 ## Making today
 In the throw-away culture that dominates contemporary society it has become the new normal, for makers and consumers alike, to buy (semi-manufactured) products cheaply and conveniently and easily discard them. For example, many people find it easier to buy a new phone instead of repairing it. This is partly due to the non-transparency of the object, the lack of knowledge about its material structure, the complexity of its inner workings, and the system(s) in which it is embedded, which discourage altering, hacking and repairing. This discrepancy between making and consuming is also visible in other industries such as automobiles, electronics and fashion. We lose foundational knowledge of all the things involved in making something from scratch, what materials can do, and how we might connect, disconnect and (re)shape things, as high-tech innovation transforms fabrication processes into complex global systems. 
 
-<img src= "./images/electonics-2.gif" alt="visual" width="400"/>
+<img src= "./images/electonics-2.gif" alt="visual" width="300"/>
 
 *Image by Kristin Jakubek*
 
 ## About the program
 In this program we go back to the fundamentals of materials and how things are made. We rethink the wealth of traditional material knowledge and craftsmanship in order to meet the demands of the 21st century. We re-envision them in the context of contemporary high-tech crafts and sustainable digital fabrication to rediscover the potential of local materials and traditions. With this minor we aim to redefine the position of the maker and her role in relation to the commons (the cultural and natural resources accessible to all members of society), by taking a DIY and open-source approach to high-tech and (smarter) smart materials that are largely compostable, locally sourced, and documented with cultural/historical awareness, accessible for anyone to use.
 
-<img src= "./images/critialmaking3dweek_pixelated.jpg" alt="visual" width="400"/>
+<img src= "./images/Trail-of-evidence.png" alt="visual" width="270"/>
 
 *Image by Kristin Jakubek*
 
