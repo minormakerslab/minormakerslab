@@ -1,6 +1,5 @@
 ---
-layout: post
-author: Loes Bogers
+layout: page
 title:  "About"
 ---
 
