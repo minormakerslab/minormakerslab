@@ -1,8 +1,8 @@
 ---
 layout: home
+author: Loes Bogers
+title:  About the course
 ---
-
-## About the course
 
 ![](./images/critialmaking3dweek_pixelated.jpg)
 
