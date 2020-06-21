@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Loes Bogers
-title:  "About Minor Makers Lab: Making as Research"
+title:  "About"
 ---
 
 *Exploring Sustainable High and Low Tech Materials through Critical Crafts*
