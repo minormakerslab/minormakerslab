@@ -1,6 +1,5 @@
 ---
 layout: home
-author: Loes Bogers
 title:  Minor Makers Lab: Making as Research
 ---
 
