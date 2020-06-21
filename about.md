@@ -6,10 +6,14 @@ title:  "About"
 
 *Exploring Sustainable High and Low Tech Materials through Critical Crafts*
 
+![](./images/Kick-off-week-visual-1.png)
+
 This minor challenges you to think critically about the way you make and design. You acquire hands-on knowledge and skills that enable you to experience how things might be made differently and discover alternatives to reduce the environmental impact of man-made things. 
 
 ## Making today
 In the throw-away culture that dominates contemporary society it has become the new normal, for makers and consumers alike, to buy (semi-manufactured) products cheaply and conveniently and easily discard them. For example, many people find it easier to buy a new phone instead of repairing it. This is partly due to the non-transparency of the object, the lack of knowledge about its material structure, the complexity of its inner workings, and the system(s) in which it is embedded, which discourage altering, hacking and repairing. This discrepancy between making and consuming is also visible in other industries such as automobiles, electronics and fashion. We lose foundational knowledge of all the things involved in making something from scratch, what materials can do, and how we might connect, disconnect and (re)shape things, as high-tech innovation transforms fabrication processes into complex global systems. 
+
+![](./images/Trail-of-evidence.png)
 
 ## About the program
 In this program we go back to the fundamentals of materials and how things are made. We rethink the wealth of traditional material knowledge and craftsmanship in order to meet the demands of the 21st century. We re-envision them in the context of contemporary high-tech crafts and sustainable digital fabrication to rediscover the potential of local materials and traditions. With this minor we aim to redefine the position of the maker and her role in relation to the commons (the cultural and natural resources accessible to all members of society), by taking a DIY and open-source approach to high-tech and (smarter) smart materials that are largely compostable, locally sourced, and documented with cultural/historical awareness, accessible for anyone to use.
@@ -20,6 +24,8 @@ The first ten weeks you will dive into digital craftsmanship, material research 
 ### Week 11-21: Projects
 From week 11-20 you choose an area of interest and develop a research project. This can take the form of exploring and expanding (the creative applications of) existing techniques or materials, or developing a tool or machine to support making processes. These outcomes are all shown at the class expo and documented under a creative commons licence in the material archive. As this is an interdisciplinary program with participants from very different fields, students can expect a lot of freedom to follow their own interests and be creative. Tutors, researchers, and designers and makers from the professional field will support you in critically reflecting on your experiments, contextualizing your creative practice and understand where and why your work could be or become relevant. 
 Leerdoelen / Competenties
+
+![](./images/electonics-2.gif)
 
 ## Learning objectives
 At the end of this minor you have developed yourself as a material storyteller and critical maker. You bring valuable hands-on knowledge and skills to any professional environment: you can work with conceptual frameworks to initiate question-driven design processes for exploring sustainable material development with an awareness of the politics, cultures and histories of made objects. This allows you to develop an ethical contemporary maker practice and share your expertise in a way that allows others to build on and learn from your work.
@@ -75,3 +81,4 @@ Solanki, Seetal. Why Materials Matter: Responsible Design for a Better World. Mu
 
 Terneaux, Elodie, and Daniel Kula, Materiology: The Creative Industry’s Guide to Materials and Technologies. Revised edition. Amsterdam: Frame Publishers, 2013 (2008).
 
+![](./images/algorthmic-bias-.gif)
