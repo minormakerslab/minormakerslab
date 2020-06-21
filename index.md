@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-# Home
 
 ## About the course
 
