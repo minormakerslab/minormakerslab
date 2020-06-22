@@ -21,10 +21,6 @@ In the throw-away culture that dominates contemporary society it has become the 
 ## About the program
 In this program we go back to the fundamentals of materials and how things are made. We rethink the wealth of traditional material knowledge and craftsmanship in order to meet the demands of the 21st century. We re-envision them in the context of contemporary high-tech crafts and sustainable digital fabrication to rediscover the potential of local materials and traditions. With this minor we aim to redefine the position of the maker and her role in relation to the commons (the cultural and natural resources accessible to all members of society), by taking a DIY and open-source approach to high-tech and (smarter) smart materials that are largely compostable, locally sourced, and documented with cultural/historical awareness, accessible for anyone to use.
 
-<img src= "./images/Trail-of-evidence.png" alt="visual" width="270"/>
-
-*Image by Kristin Jakubek*
-
 ### Week 1-10: Coursework
 The first ten weeks you will dive into digital craftsmanship, material research and storytelling. We will work on a range of digital crafts and techniques, in order to allow you to fully and independently engage with the high tech equipment, like 3D printers and laser cutters, available to you in the Makers Lab: our digital fabrication workshop. You will also learn foundational material knowledge by cooking, curing, growing, modifying and connecting materials like bioplastics, crystals, natural pigments, fibres and programmable materials that respond to touch or heat or change shape. By experimenting and researching independently and collaboratively, you are challenged to discover techniques and combinations and make meaningful contributions to a shared material archive. 
 
