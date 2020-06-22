@@ -1,11 +1,9 @@
-title: Your awesome title
+title: minormakerslab
 author:
   name: GitHub User
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This semester course at Amsterdam University of Applied Sciences challenges you to think critically about the way you make and design. Acquire hands-on knowledge and skills that enable you to experience how things might be made differently and discover alternatives to reduce the social and environmental impact of man-made things.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

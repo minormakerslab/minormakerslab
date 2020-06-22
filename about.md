@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "About"
+title:  "about"
 ---
 
 *Exploring Sustainable High and Low Tech Materials through Critical Crafts*
