@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Student work"
+title:  "student work"
 ---
 
 *Under construction*

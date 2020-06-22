@@ -47,11 +47,18 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
+ - student-work.md
+ - syllabus.md
+ - expo2020.md
 
 # Build settings
 theme: minima
+
+sass:
+  sass_dir: _sass
+  style: classic
 
 plugins:
 # - jekyll-feed
