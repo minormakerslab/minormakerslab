@@ -3,11 +3,15 @@ layout: page
 title:  "about"
 ---
 
+#Minor Makers Lab: Making as Research (30ECTS)
+
 *Exploring Sustainable High and Low Tech Materials through Critical Crafts*
 
 <img src= "./assets/Kick-off-week-visual-1.png" alt="visual" width="600"/><br> *Image by Kristin Jakubek*
 
 This minor challenges you to think critically about the way you make and design. You acquire hands-on knowledge and skills that enable you to experience how things might be made differently and discover alternatives to reduce the environmental impact of man-made things. 
+
+_IMPORTANT NOTE:_ We are exploring the possibility of joining the international [BioDesign Challenge](biodesignchallenge.org/) as part of the 2021 minor that starts in February. The program will stay largely the same, but there will be more emphasis on the do's, don'ts and dilemmas of working with living organisms and synthetic biology as design material. Exciting, right??? The final decision will be made by October 1st (before the second round of enrolment). Contact us if you have questions about this. 
 
 ## Making today
 In the throw-away culture that dominates contemporary society it has become the new normal, for makers and consumers alike, to buy (semi-manufactured) products cheaply and conveniently and easily discard them. For example, many people find it easier to buy a new phone instead of repairing it. This is partly due to the non-transparency of the object, the lack of knowledge about its material structure, the complexity of its inner workings, and the system(s) in which it is embedded, which discourage altering, hacking and repairing. This discrepancy between making and consuming is also visible in other industries such as automobiles, electronics and fashion. We lose foundational knowledge of all the things involved in making something from scratch, what materials can do, and how we might connect, disconnect and (re)shape things, as high-tech innovation transforms fabrication processes into complex global systems. 
@@ -26,7 +30,6 @@ The first ten weeks you will dive into digital craftsmanship, material research 
 
 ### Week 11-21: Projects
 From week 11-20 you choose an area of interest and develop a research project. This can take the form of exploring and expanding (the creative applications of) existing techniques or materials, or developing a tool or machine to support making processes. These outcomes are all shown at the class expo and documented under a creative commons licence in the material archive. As this is an interdisciplinary program with participants from very different fields, students can expect a lot of freedom to follow their own interests and be creative. Tutors, researchers, and designers and makers from the professional field will support you in critically reflecting on your experiments, contextualizing your creative practice and understand where and why your work could be or become relevant. 
-Leerdoelen / Competenties
 
 <img src= "./assets/Trail-of-evidence.png" alt="visual" width="600"/><br>*Image by Kristin Jakubek*
 
@@ -43,7 +46,7 @@ The ability to analyse the properties of materials and their relationship to too
 The ability to develop stimulating scenarios and use effective (material) storytelling techniques to build an argument for the future relevance, urgency and creative potential of their materials research, presented as part of an exhibition.
 
 ## Assessment information
-All course is structured in three domains, each existing of a foundational part (I) and an applied part (II). All parts are graded with various assignments (I) and portfolio assessments (II). 
+The course is structured into three domains, each existing of a foundational part (I) and an applied part (II). All parts are graded with various assignments (I) and portfolio assessments (II). 
 
   * *Digital Craftsmanship I & II - 10 EC*
   * *Materials Research & Documentation I & II - 10 EC*
@@ -62,7 +65,7 @@ This minor welcomes students with an open, curious and analytical attitude, comi
 16
 
 **Maximum number of students:**
-25
+20 (reduced max due to COVID-19 limitations, normally 25)
 
 **Class times:** normally on Wednesdays, Thursdays, and Friday morning + independent study in the lab (subject to change in relation to the COVID-19 measures)
 
@@ -71,7 +74,7 @@ This minor welcomes students with an open, curious and analytical attitude, comi
 ​**Host faculty:** Digital Media & Creative Industries
 ​
 ## Teaching staff & coordination
-​​[Loes Bogers](mailto:l.bogers@hva.nl) |  [Micky van Zeijl](mailto: m.van.zeijl@hva.nl) |  Sam Edens | Yuri Westplat | Marjolijn Ruyg |  Laura Mudde | and guests
+​​[Loes Bogers](mailto:l.bogers@hva.nl) |  [Micky van Zeijl](mailto:m.van.zeijl@hva.nl) |  Sam Edens | Ista Boszhard | Yuri Westplat | Marjolijn Ruyg |  Laura Mudde | and guests
 
 ## Selection from course syllabus
 Bogers, Loes & Letzia Chiappini (eds) The Critical Makers Reader: (Un)Learning Technology. Amsterdam: Insittute of Network Cultures, 2019.
