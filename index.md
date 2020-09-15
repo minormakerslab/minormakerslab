@@ -3,7 +3,7 @@ layout: home
 title:  Minor Makers Lab: Making as Research
 ---
 
-##Minor Makers Lab: Making as Research at AUAS
+## Minor Makers Lab: Making as Research at AUAS
 
 <img src= "./assets/critialmaking3dweek_pixelated.jpg" alt="visual" width="600"/>
 
@@ -13,11 +13,11 @@ This semester course taught at the Amsterdam University of Applied Sciences chal
 
 More about the [Minor Makers Lab course at AUAS](./about.md).
 
-##News: Makers Lab X Biodesign!
+## News: Makers Lab X Biodesign!
 
 This year, we will be partnering up with the [Biodesign Challenge](https://biodesignchallenge.org/) an international competition and education program to support and shape the first generation of biodesigners. Are you up for an adventure and do you want to explore the do's, don'ts and dilemmas of designing with living organisms? Then join us in February 2021!
 
 [More information about the BioDesign Challenge](./BioDesignChalenge_schooldeck.pdf)
 
-<img src= "./assets/imgs/biodesign.png" alt="visual" width="600"/> *Image credit: Biodesign Challenge*
+<img src= "./assets/imgs/biodesign.png" alt="visual" width="600"/> <br>*Image credit: Biodesign Challenge*
 
