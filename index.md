@@ -3,6 +3,8 @@ layout: home
 title:  Minor Makers Lab: Making as Research
 ---
 
+##Minor Makers Lab: Making as Research at AUAS
+
 <img src= "./assets/critialmaking3dweek_pixelated.jpg" alt="visual" width="600"/>
 
 *Image by Kristin Jakubek*
