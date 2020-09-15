@@ -17,7 +17,7 @@ More about the [Minor Makers Lab course at AUAS](./about.md).
 
 This year, we will be partnering up with the [Biodesign Challenge](https://biodesignchallenge.org/) an international competition and education program to support and shape the first generation of biodesigners. Are you up for an adventure and do you want to explore the do's, don'ts and dilemmas of designing with living organisms? Then join us in February 2021!
 
-[More information about the BioDesign Challenge](./BioDesignChalenge_schooldeck.pdf)
+[More information about the BioDesign Challenge (pdf)](./assets/BioDesignChalenge_schooldeck.pdf)
 
 <img src= "./assets/imgs/biodesign.png" alt="visual" width="600"/> <br>*Image credit: Biodesign Challenge*
 
