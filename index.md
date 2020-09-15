@@ -7,6 +7,8 @@ title:  Minor Makers Lab: Making as Research
 
 *Image by Kristin Jakubek*
 
+## Minor Makers Lab: Making as Research at AUAS
+
 This semester course taught at the Amsterdam University of Applied Sciences challenges you to think critically about the way you make and design. You acquire hands-on knowledge and skills that enable you to experience how things might be made differently and discover alternatives to reduce the environmental impact of man-made things. 
 
 More about the [Minor Makers Lab course at AUAS](./about.md).
