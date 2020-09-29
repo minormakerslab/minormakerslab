@@ -3,7 +3,9 @@ layout: page
 title:  "syllabus"
 ---
 
-*Under construction*
+*To be updated*
+
+We are currently integrating the program with this year's Biodesign Challenge so the syllabus is a work-in-progress. 
 
 For more info, email [Loes Bogers](mailto: l.bogers@hva.nl) or [Micky van Zeijl](m.van.zeijl@hva.nl)
 
