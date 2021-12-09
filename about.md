@@ -74,7 +74,7 @@ This minor welcomes students with an open, curious and analytical attitude, comi
 ​**Host faculty:** Digital Media & Creative Industries
 ​
 ## Teaching staff & coordination
-​​[Loes Bogers](mailto:l.bogers@hva.nl) |  [Micky van Zeijl](mailto:m.van.zeijl@hva.nl) |  Sam Edens | Ista Boszhard | Yuri Westplat | Marjolijn Ruyg |  Laura Mudde | and guests
+​​[Micky van Zeijl](mailto:m.van.zeijl@hva.nl) |  [Sam Edens](mailto:s.j.edens@hva.nl) | Ista Boszhard | Marjolijn Ruyg |  Laura Mudde | and guests
 
 ## Selection from course syllabus
 Bogers, Loes & Letzia Chiappini (eds) The Critical Makers Reader: (Un)Learning Technology. Amsterdam: Insittute of Network Cultures, 2019.
