@@ -3,8 +3,9 @@ layout: page
 title:  "student work"
 ---
 
-A selection from previous years' student projects: 
-
+A selection from previous years' student projects:
+ 
+* [Student work 2022](./_posts/2021-07-15-projects2021.md)
 * [Student work 2021](./_posts/2021-07-15-projects2021.md)
 * [Student work 2020](./_posts/2020-07-15-projects2020.md)
 * [Student work 2019](./_posts/2019-07-15-projects2019.md)
