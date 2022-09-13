@@ -9,6 +9,8 @@ title:  "about"
 
 <img src= "./assets/Kick-off-week-visual-1.png" alt="visual" width="600"/><br> *Image by Kristin Jakubek*
 
+**Exploring materials futures** is understood as collectively imagine and prototype sustainable practices around material exploration, production, and consumption. 
+
 This minor challenges you to think critically about the way you make and design. You acquire hands-on knowledge and skills that enable you to experience how things might be made differently and discover alternatives to reduce the environmental impact of man-made things. 
 
 
