@@ -3,7 +3,7 @@ layout: page
 title:  "about"
 ---
 
-#Minor Makers Lab: Making as Research (30ECTS)
+#Minor Makers Lab: Exploring Material Futures (30ECTS)
 
 *Exploring Sustainable High and Low Tech Materials through Critical Crafts*
 
@@ -11,7 +11,6 @@ title:  "about"
 
 This minor challenges you to think critically about the way you make and design. You acquire hands-on knowledge and skills that enable you to experience how things might be made differently and discover alternatives to reduce the environmental impact of man-made things. 
 
-_IMPORTANT NOTE:_Will will once again be joining the international [BioDesign Challenge](biodesignchallenge.org/) as part of the 2022 minor that starts in February. The program will stay largely the same, continuing the emphasis on the do's, don'ts and dilemmas of working with living organisms and synthetic biology as design material. 
 
 ## Making today
 In the throw-away culture that dominates contemporary society it has become the new normal, for makers and consumers alike, to buy (semi-manufactured) products cheaply and conveniently and easily discard them. For example, many people find it easier to buy a new phone instead of repairing it. This is partly due to the non-transparency of the object, the lack of knowledge about its material structure, the complexity of its inner workings, and the system(s) in which it is embedded, which discourage altering, hacking and repairing. This discrepancy between making and consuming is also visible in other industries such as automobiles, electronics and fashion. We lose foundational knowledge of all the things involved in making something from scratch, what materials can do, and how we might connect, disconnect and (re)shape things, as high-tech innovation transforms fabrication processes into complex global systems. 
@@ -24,7 +23,7 @@ In this program we go back to the fundamentals of materials and how things are m
 <img src= "./assets/kristin_pigment.gif" alt="visual" width="600"/><br>*Image by Kristin Jakubek*
 
 ### Week 1-10: Coursework
-The first ten weeks you will dive into digital craftsmanship, material research and storytelling. We will work on a range of digital crafts and techniques, in order to allow you to fully and independently engage with the high tech equipment, like 3D printers and laser cutters, available to you in the Makers Lab: our digital fabrication workshop. You will also learn foundational material knowledge by cooking, curing, growing, modifying and connecting materials like bioplastics and biocomposites, natural pigments, fibres and programmable materials and organisms that respond to the environment. By experimenting and researching independently and collaboratively, you are challenged to discover techniques and combinations and make meaningful contributions to a shared material archive. 
+The first ten weeks you will dive into digital craftsmanship, material research and storytelling. We will work on a range of digital crafts and techniques, in order to allow you to fully and independently engage with the high tech equipment, like 3D printers and laser cutters, available to you in the Makers Lab: our digital fabrication workshop. You will also learn foundational material knowledge by cooking, curing, growing, modifying and connecting materials like bioplastics and biocomposites, natural pigments, fibres and programmable materials and organisms that respond to the environment. We will do this in the Biomaterials Studio: our biofabrication workshop. By experimenting and researching independently and collaboratively, you are challenged to discover techniques and combinations and make meaningful contributions to a shared material archive. 
 
 <img src= "./assets/kristinpressed.gif" alt="visual" width="600"/><br>*Image by Kristin Jakubek*
 
@@ -67,14 +66,14 @@ This minor welcomes students with an open, curious and analytical attitude, comi
 **Maximum number of students:**
 25
 
-**Class times:** normally on Wednesdays, Thursdays, and Friday morning + independent study in the lab (subject to change in relation to the COVID-19 measures)
+**Class times:** seminars and workshops usually take place on Monday, Tuesday, Thursday + independent study in the labs (subject to change in relation to COVID-19 measures)
 
 **Costs:** ​consider material costs of about € 150 on account of the student for materials, excursions and printing fees.
 
 ​**Host faculty:** Digital Media & Creative Industries
 ​
 ## Teaching staff & coordination
-​​[Micky van Zeijl](mailto:m.van.zeijl@hva.nl) |  [Sam Edens](mailto:s.j.edens@hva.nl) | Ista Boszhard | Marjolijn Ruyg |  Laura Mudde | and guests
+​​[Micky van Zeijl](mailto:m.van.zeijl@hva.nl) |  [Sam Edens](mailto:s.j.edens@hva.nl) | Harm van Vugt | Ista Boszhard | Marjolijn Ruyg |  Pamela Nelson | and guests
 
 ## Selection from course syllabus
 Bogers, Loes & Letzia Chiappini (eds) The Critical Makers Reader: (Un)Learning Technology. Amsterdam: Insittute of Network Cultures, 2019.
