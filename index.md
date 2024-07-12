@@ -3,7 +3,7 @@ layout: home
 title:  Minor Makers Lab: Making as Research
 ---
 
-<img src= "./assets/critialmaking3dweek_pixelated.jpg" alt="visual" width="600"/>
+
 
 ![Minor Makers Lab](assets/imgs/2023_MML_titleImage.png)
 
