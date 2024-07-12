@@ -1,15 +1,18 @@
 ---
 layout: home
-title:  Minor Makers Lab: Exploring Material Futures
+title:  Minor Makers Lab: Making as Research
 ---
 
 <img src= "./assets/critialmaking3dweek_pixelated.jpg" alt="visual" width="600"/>
 
-*Image by Kristin Jakubek*
+	![Minor Makers Lab](2023_MML_titleImage.png)
 
-## Minor Makers Lab: Exploring Material Futures at AUAS
+assets/imgs/2023_MML_titleImage.png
 
-This semester course taught at the Amsterdam University of Applied Sciences challenges you to think critically about the way you make and design. You acquire hands-on knowledge and skills that enable you to experience how things might be made differently and discover alternatives to reduce the environmental impact of man-made things. 
+## Minor Makers Lab: Making as Research at AUAS
+
+Are you curious, creative, and critical? 
+Join us for a semester of transdisciplinary making, experiments, hacking, tinkering, digital fabrication, soft robotics, and electronics. This semester course offered at the Amsterdam University of Applied Sciences provides intense training in digital fabrication (tools and techniques like laser cutting, 3D printing, new materials, and electronics) and an introduction to tinkering and making-as-research.
 
 More about the [Minor Makers Lab course at AUAS](./about.md).
 
