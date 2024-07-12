@@ -3,17 +3,11 @@ layout: page
 title:  "about"
 ---
 
-# Minor Makers Lab: Making as Research (30ECTS)
-
-*Exploring Sustainable High and Low Tech Materials through Critical Crafts*
-
-<img src= "./assets/Kick-off-week-visual-1.png" alt="visual" width="600"/><br> *Image by Kristin Jakubek*
 
 
+### Are you curious, creative, and critical? 
 
-## Are you curious, creative, and critical? 
-
-Join us for a semester of transdisciplinary making, experiments, hacking, tinkering, digital fabrication, soft robotics, and electronics. This semester course offered at the Amsterdam University of Applied Sciences provides intense training in digital fabrication (tools and techniques like laser cutting, 3D printing, new materials, and electronics) and an introduction to tinkering and making-as-research.
+Join us for a semester (30 ects)of transdisciplinary making, experiments, hacking, tinkering, digital fabrication, soft robotics, and electronics. This semester course offered at the Amsterdam University of Applied Sciences provides intense training in digital fabrication (tools and techniques like laser cutting, 3D printing, new materials, and electronics) and an introduction to tinkering and making-as-research.
 
 In a world where disposable products dominate, it's time to rethink the value of making and the way we make things. We have a DIY and open-source approach. This international minor challenges you to think critically about the impact of your creations on the environment. We explore alternative and more sustainable ways of making things. We aim to empower you to become a critical maker and tinkerer. In this minor, the act of making and tinkering is a way to research, discover, and push boundaries. 
 
@@ -26,14 +20,6 @@ The first half of the minor focuses on experiments and tinkering. We’ll explor
 This second half of this minor program offers a unique opportunity to apply what you learned while working with a transdisciplinary team on a research project. You’ll rediscover the potential of traditional materials and techniques. You'll learn how to use them in the context of high-tech crafts and sustainable fabrication. 
 
 Join us in the Minor Makers Lab and discover the art of making in the 21st century. Unleash your creativity and make a positive impact on the world!
-
-
-
-<img src= "./assets/electonics-2.gif" alt="visual" width="600"/><br>*Image by Kristin Jakubek*
-
-
-
-<img src= "./assets/kristin_pigment.gif" alt="visual" width="600"/><br>*Image by Kristin Jakubek*
 
 
 
@@ -62,7 +48,4 @@ This minor welcomes students with an open, curious and analytical attitude, comi
 ​
 ## Teaching staff & coordination
 ​​[Micky van Zeijl](mailto:m.van.zeijl@hva.nl) | Harm van Vugt| Sam Edens | Ista Boszhard | and guests
-
-
-<img src= "./assets/algorthmic-bias-.gif" alt="visual" width="400"/><br>*Image by Kristin Jakubek*
 
