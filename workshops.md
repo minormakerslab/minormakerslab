@@ -13,5 +13,5 @@ sort_by: title
 sort_order: #reverse
 ---
 
-This is a collection of workshops develloped by our students. We publish this under a creative commons licensense for 
+This is a collection of workshops developed by our students. We publish these under a Creative Commons license for everyone to use and build upon. Our students share their digital fabrication knowledge and project experiences through these hands-on workshops—making skills more accessible.
 
