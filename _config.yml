@@ -79,7 +79,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  topics:
+  workshops:
     output: true
     show_excerpts: false
     permalink: /:collection/:path/
@@ -90,9 +90,9 @@ collections:
 
 # Front Matter Defaults
 defaults:
-  # _topics
+  # _workshops
   - scope:
-      path: "_topics"
+      path: "_workshops"
       type: page
     values:
       layout: post
