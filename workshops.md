@@ -3,8 +3,8 @@ title: Workshops
 layout: collection
 permalink: /workshops/
 collection: workshops
-alt_title: "student workshops"
-sub_title: "Minor Makers Lab student workshops"
+alt_title: "sMinor Makers Lab student workshops"
+sub_title: ""
 image: 
   path: /assets/images/topics/Topics_lg.jpg
 entries_layout: grid
