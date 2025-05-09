@@ -7,10 +7,9 @@ image:
   thumbnail: /assets/images/workshops/makerslab_lg.jpg
   caption: "workshop example"
 ---
+## Get to know speculative design and design a provocative campaign.
 This is an example how to document your workshop. This is the *Speculative Design Workshop*  made by Tessa Duzee and part of [the Ethiek Toolkit](https://ethiektoolkit.nl/werkvorm-24/) 
 
-
-## Get to know speculative design and design a provocative campaign.
 
 ### What are you going to learn?
 
