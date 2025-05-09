@@ -1,7 +1,7 @@
 ---
 layout: page
 author: Tessa Duzee
-title:  "Workshop example"
+title:  "Provoking for the Future"
 image: 
   path: /assets/images/workshops/makerslab_lg.jpg
   thumbnail: /assets/images/workshops/makerslab_lg.jpg
@@ -9,8 +9,6 @@ image:
 ---
 This is an example how to document your workshop. This is the *Speculative Design Workshop*  made by Tessa Duzee and part of [the Ethiek Toolkit](https://ethiektoolkit.nl/werkvorm-24/) 
 
-
-# Provoking for the Future
 
 ## Get to know speculative design and design a provocative campaign.
 
