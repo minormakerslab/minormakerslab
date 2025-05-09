@@ -50,6 +50,7 @@ google_fonts:
 
 navigation_pages:
   - projects.md
+  - topics.md
   - workshops.md
   - OurLabs.md
 

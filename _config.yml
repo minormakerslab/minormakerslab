@@ -83,7 +83,10 @@ collections:
     output: true
     show_excerpts: false
     permalink: /:collection/:path/
-
+  workshops:
+    output: true
+    show_excerpts: false
+    permalink: /:collection/:path/
 
 
 
@@ -101,6 +104,14 @@ defaults:
   # _projects
   - scope:
       path: "_projects"
+      type: page
+    values:
+      layout: post
+      read_time: true
+
+  # _workshops
+  - scope:
+      path: "_workshops"
       type: page
     values:
       layout: post
