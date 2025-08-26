@@ -3,8 +3,8 @@ layout: page
 author: Tessa Duzee
 title:  "Provoking for the Future"
 image: 
-  path: /assets/images/workshops/makerslab_lg.jpg
-  thumbnail: /assets/images/workshops/makerslab_lg.jpg
+  path: /assets/images/workshops/EthischeCreativiteit_lg.png
+  thumbnail: /assets/images/workshops/provokingforthefuture_tumb.png
   caption: "workshop example"
 ---
 ## Get to know speculative design and design a provocative campaign.
