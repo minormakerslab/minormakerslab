@@ -68,31 +68,31 @@ To introduce the sewing machine in a fun and simple way, helping beginners under
 ### How?
 
 #### Step 1: Introduction & Safety (10 min)
-- Welcome, overview, and basic safety tips
-![welcom](/assets/images/workshops/Welcome.jpg)
-![machine type](/assets/images/workshops/MachineType.jpg)
-![Safety](/assets/images/workshops/Safety.jpg)
-- Show parts of the sewing machine (IMG + machine)
-![Machineparts](/assets/images/workshops/MachineParts.jpg)
+- Welcome, overview, and basic safety tips<br>
+![welcom](/assets/images/workshops/Welcome.jpg)<br>
+![machine type](/assets/images/workshops/MachineType.jpg)<br>
+![Safety](/assets/images/workshops/Safety.jpg)<br>
+- Show parts of the sewing machine (IMG + machine)<br>
+![Machineparts](/assets/images/workshops/MachineParts.jpg)<br>
 
 
 ---
 
 #### Step 2: How It Works (15 min)
-- Explain the sewing mechanism with video/GIF
-![function](/assets/images/workshops/MachineFunction.jpg)
-- Demonstrate threading the top thread and bobbin
-![thread](/assets/images/workshops/practiceThread.jpg)
+- Explain the sewing mechanism with video/GIF<br>
+![function](/assets/images/workshops/MachineFunction.jpg)<br>
+- Demonstrate threading the top thread and bobbin<br>
+![thread](/assets/images/workshops/practiceThread.jpg)<br>
 
 
 
 ---
 
 #### Step 3: First stitches on paper (20 min)
-- Let participants work with the machine and explore
-![practice](/assets/images/workshops/PracticeTime.jpg)
-- Use given stencil to teach basic movements
-![stencil](/assets/images/workshops/Stencil.jpg)
+- Let participants work with the machine and explore<br>
+![practice](/assets/images/workshops/PracticeTime.jpg)<br>
+- Use given stencil to teach basic movements<br>
+![stencil](/assets/images/workshops/Stencil.jpg)<br>
 - *Warning*: set stitch length to atleast 3 when using paper
 
 
@@ -102,18 +102,18 @@ To introduce the sewing machine in a fun and simple way, helping beginners under
 ---
 
 #### Step 4: Sewing fabric together (20 min)
-- Use fabric | Teach backstitch
-![fabric](/assets/images/workshops/2Fabric.jpg)
-- See Troubleshooting when problems arise
-![troubleshooting](/assets/images/workshops/Trouble.jpg)
+- Use fabric | Teach backstitch<br>
+![fabric](/assets/images/workshops/2Fabric.jpg)<br>
+- See Troubleshooting when problems arise<br>
+![troubleshooting](/assets/images/workshops/Trouble.jpg)<br>
 
 
 
 ---
 
 #### Step 5: The End (5 min)
-- Clean up and close the workshop
-![thankyou](/assets/images/workshops/ThankYou.jpg)
+- Clean up and close the workshop<br>
+![thankyou](/assets/images/workshops/ThankYou.jpg)<br>
 
 
 
