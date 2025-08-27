@@ -10,7 +10,7 @@ image:
 
 
 # Blender Basics Workshop  
-## A beginner-friendly introduction to the Blender interface and simple modeling tools
+A beginner-friendly introduction to the Blender interface and simple modeling tools
 
 ---
 
