@@ -1,6 +1,6 @@
 ---
 layout: page
-author: Calvin Sprengers
+author: Stijn Groot, Elijah Delgado, Iris Terepocki, Calvin Sprengers
 title:  "Blender Basics Workshop"
 image: 
   path: /assets/images/workshops/blender.jpg
@@ -9,13 +9,8 @@ image:
 ---
 
 
-# Blender Basics Workshop  
+# Blender Basics 
 A beginner-friendly introduction to the Blender interface and simple modeling tools
-
----
-
-### Why?
-
 Blender is a powerful and free 3D creation program used for animation, game design, visual effects, etc... This workshop introduces you to the very basics, making 3D modeling accessible even to complete beginners.  Blender’s opens the door to creativity and digital prototyping.
 
 ---

@@ -9,16 +9,9 @@ image:
 ---
  
 
-# Embroidery workshop
+# Embroidery 
 Upcycling Clothes with embroidery
- 
-### What are you going to learn?
- 
-## Explain the learning goals of your workshop. The why?
- 
-This workshop aims to teach people how to upcycle their damaged clothing with art of embroidery.
-Instead of throwing these pieces away, you get to give them a second life and keep using them.
-Even simple embroidery stitches can transform and personalise your clothes and make them fun and unique.
+This workshop aims to teach people how to upcycle their damaged clothing with art of embroidery. Instead of throwing these pieces away, you get to give them a second life and keep using them. Even simple embroidery stitches can transform and personalise your clothes and make them fun and unique.
  
 Embroidery can also be very mindfull, and teach you about ways to keep your favourite clothing pieces just a little longer in your life.
 ---
