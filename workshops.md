@@ -6,7 +6,7 @@ collection: workshops
 alt_title: "Minor Makers Lab student workshops"
 sub_title: ""
 image: 
-  path: 
+  path: /assets/images/workshops/workshop_lg.jpg
 entries_layout: grid
 show_excerpts: false
 sort_by: title 
