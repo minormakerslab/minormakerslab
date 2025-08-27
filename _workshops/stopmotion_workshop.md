@@ -3,8 +3,8 @@ layout: page
 author: Max de Ruijter
 title:  "Stop-motion workhop"
 image: 
-  path: [Creating a short stop-motion video](./assets/images/workshops/creating1.jpeg)
-  thumbnail: [Creating a short stop-motion video](./assets/images/workshops/creatingthumbnail.jpeg)
+  path: /assets/images/workshops/creating1.jpeg
+  thumbnail: /assets/images/workshops/creatingthumbnail.jpeg
   caption: "Creating a short stop-motion video"
 ---
 
