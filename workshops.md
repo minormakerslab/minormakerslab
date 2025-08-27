@@ -1,9 +1,9 @@
 ---
-title: workshops
+title: Workshops
 layout: collection
 permalink: /workshops/
 collection: workshops
-alt_title: "Minor Makers Lab student workshops"
+alt_title: "Student Workshops"
 sub_title: ""
 image: 
   path: /assets/images/workshops/workshop_lg.jpg
