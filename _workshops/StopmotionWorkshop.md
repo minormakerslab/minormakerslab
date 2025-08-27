@@ -1,7 +1,7 @@
 ---
 layout: page
 author: Max de Ruijter
-title:  "Stop-motion workhop"
+title:  "Basics of Stop Motion"
 image: 
   path: /assets/images/workshops/creatingthumbnail.jpeg
   thumbnail: /assets/images/workshops/creatingthumbnail.jpeg
@@ -9,9 +9,10 @@ image:
 ---
 
 
-# Stop-motion Workshop
-Creating a short product stop-motion video
+# Stop Motion Workshop
+Creating a short product stop-motion video. In this workshop, students will learn the basics of stop-motion animation in a playful and creative way.
 
+---
 
 ### What are you going to learn?
 

@@ -10,7 +10,7 @@ image:
  
 
 # Embroidery 
-Upcycling Clothes with embroidery
+Upcycling Clothes with embroidery. This workshop aims to teach people how to upcycle their damaged clothing with art of embroidery.
 
 ---
 ### Why
